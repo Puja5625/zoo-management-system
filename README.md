@@ -22,5 +22,4 @@ A professional web application built to manage zoo operations, including animal 
 5. Run migrations: `php artisan migrate --seed`
 6. Start server: `php artisan serve`
 
-## 📸 Screenshots
-(Add your project screenshots here to make it visually appealing)
+
